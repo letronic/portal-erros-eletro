@@ -1,32 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://portal-erros-eletro.vercel.app/</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://portal-erros-eletro.vercel.app//</loc>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://portal-erros-eletro.vercel.app/erro-ch05-ar-condicionado-lg.html</loc>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch01-ar-condicionado-lg.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://portal-erros-eletro.vercel.app/erro-e1-ar-condicionado-samsung.html</loc>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch02-ar-condicionado-lg.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://portal-erros-eletro.vercel.app/erro-luzes-piscando-lavadora-brastemp.html</loc>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch03-ar-condicionado-lg.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://portal-erros-eletro.vercel.app/erro-e21-lavadora-electrolux.html</loc>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch04-ar-condicionado-lg.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://portal-erros-eletro.vercel.app/erro-bip-continuo-geladeira-consul.html</loc>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch05-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch06-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch07-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch08-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch09-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch10-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch12-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch21-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch22-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch23-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch24-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch26-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch27-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch29-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch32-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch33-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch38-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch41-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch44-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch45-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch46-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch47-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch48-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch53-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch60-ar-condicionado-lg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://portal-erros-eletro.vercel.app//erro-ch61-ar-condicionado-lg.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
